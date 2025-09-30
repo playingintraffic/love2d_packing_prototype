@@ -1,5 +1,7 @@
 ![packing_gif](https://github.com/user-attachments/assets/98e96d24-6882-41c3-9829-1306f0a57a66)
 
+You can play in your browser over on **[Itch.io](https://playingintraffic.itch.io/love2d-packing-prototype)**
+
 # Love2D Packing Prototype
 
 A simple, cozy packing prototype built in Love2D.  
